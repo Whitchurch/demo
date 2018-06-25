@@ -1,0 +1,17 @@
+
+Step 0(Important!): View demo to follow steps: 
+https://youtu.be/ExGbu820VHU
+
+
+
+Step1: Open github link
+https://github.com/Whitchurch/demo.git
+
+
+Step2: Download Zip and unzip
+
+Step3:
+Open & run solution shortestPathAlgor 
+
+Step4:
+Open & run solution algorithimdevspace
