@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithimdevspace", "algorithimdevspace\algorithimdevspace.csproj", "{D647AE4F-5A68-4682-BE51-8844EC63ECFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithimtest", "algorithimtest\algorithimtest.csproj", "{C3AE49AF-12F4-45E2-B07B-0626BE520C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AE49AF-12F4-45E2-B07B-0626BE520C4C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3AE49AF-12F4-45E2-B07B-0626BE520C4C}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3AE49AF-12F4-45E2-B07B-0626BE520C4C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3AE49AF-12F4-45E2-B07B-0626BE520C4C}.Release|x86.Build.0 = Release|Any CPU
+		{D647AE4F-5A68-4682-BE51-8844EC63ECFD}.Debug|x86.ActiveCfg = Debug|x86
+		{D647AE4F-5A68-4682-BE51-8844EC63ECFD}.Debug|x86.Build.0 = Debug|x86
+		{D647AE4F-5A68-4682-BE51-8844EC63ECFD}.Release|x86.ActiveCfg = Release|x86
+		{D647AE4F-5A68-4682-BE51-8844EC63ECFD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

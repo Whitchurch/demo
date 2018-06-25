@@ -1,0 +1,15 @@
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\shortestPathAlgor.dll
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\shortestPathAlgor.pdb
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\Xamarin.Forms.Core.dll
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\Xamarin.Forms.Core.xml
+C:\shortestPathAlgor\shortestPathAlgor\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\shortestPathAlgor.csproj.CoreCompileInputs.cache
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\shortestPathAlgor.csproj.CopyComplete
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\shortestPathAlgor.dll
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\shortestPathAlgor.pdb
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\Page_Splash.xaml.g.cs
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\shortestPathAlgor.csprojAssemblyReference.cache
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\Page_MainMenu.xaml.g.cs
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\Page_4by4.xaml.g.cs
+C:\shortestPathAlgor\shortestPathAlgor\obj\Debug\Page_NbyN.xaml.g.cs

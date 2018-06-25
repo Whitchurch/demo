@@ -1,0 +1,7 @@
+C:\submission\algorithimdevspace\algorithimdevspace\bin\Debug\algorithimdevspace.exe.config
+C:\submission\algorithimdevspace\algorithimdevspace\bin\Debug\algorithimdevspace.exe
+C:\submission\algorithimdevspace\algorithimdevspace\bin\Debug\algorithimdevspace.pdb
+C:\submission\algorithimdevspace\algorithimdevspace\obj\x86\Debug\algorithimdevspace.csprojAssemblyReference.cache
+C:\submission\algorithimdevspace\algorithimdevspace\obj\x86\Debug\algorithimdevspace.csproj.CoreCompileInputs.cache
+C:\submission\algorithimdevspace\algorithimdevspace\obj\x86\Debug\algorithimdevspace.exe
+C:\submission\algorithimdevspace\algorithimdevspace\obj\x86\Debug\algorithimdevspace.pdb

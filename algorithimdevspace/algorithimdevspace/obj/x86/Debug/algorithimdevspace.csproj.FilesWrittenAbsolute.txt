@@ -1,0 +1,5 @@
+/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/bin/Debug/algorithimdevspace.exe.mdb
+/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/bin/Debug/algorithimdevspace.exe
+/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/obj/x86/Debug/algorithimdevspace.exe
+/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/obj/x86/Debug/algorithimdevspace.exe.mdb

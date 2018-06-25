@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="shortestPathAlgor.Views.MainMenu.Page_MainMenu"
+              xmlns:customControls="clr-namespace:shortestPathAlgor.CustomControls;assembly=shortestPathAlgor"
+              BackgroundColor="Black">
+    <ContentPage.Content>
+        <StackLayout>
+            <customControls:Custom_SubLabel  Text="Main Menu: Select a button to proceed"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+
+            <customControls:Custom_Button
+                HorizontalOptions="FillAndExpand"
+                Text="Calculate 4x4 Matrix"
+                Command="{Binding Calculate4by4Command}"
+                />
+
+            <customControls:Custom_SubLabel  Text="Note: In the future, I am planning to have user input row and column of the matrix and enter each element"
+                                             TextColor="Red"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+            <!--<customControls:Custom_Button
+                HorizontalOptions="FillAndExpand"
+                Text="Calculate NxN Matrix"
+                Command="{Binding CalculateNbyNCommand}"
+                />-->
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

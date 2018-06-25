@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="algorithimtest/algorithimtest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="algorithimdevspace/Program.cs">
+    <Files>
+      <File FileName="algorithimdevspace/Program.cs" Line="263" Column="1" />
+      <File FileName="algorithimtest/Sample1.cs" Line="22" Column="19" />
+      <File FileName="algorithimtest/Sample4.cs" Line="15" Column="1" />
+      <File FileName="algorithimtest/Sample1a.cs" Line="36" Column="25" />
+      <File FileName="algorithimtest/Sample2.cs" Line="46" Column="24" />
+      <File FileName="algorithimtest/Sample5.cs" Line="7" Column="22" />
+      <File FileName="algorithimdevspace/pathData.cs" Line="14" Column="52" />
+      <File FileName="algorithimtest/packages.config" Line="1" Column="1" />
+      <File FileName="algorithimtest/Sample10.cs" Line="36" Column="3" />
+      <File FileName="algorithimtest/Sample11.cs" Line="57" Column="46" />
+      <File FileName="algorithimtest/Sample3.cs" Line="47" Column="44" />
+      <File FileName="algorithimtest/Sample12.cs" Line="48" Column="72" />
+      <File FileName="algorithimtest/Sample99.cs" Line="52" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimtest/Sample99.cs" line="43" column="1" />
+      <Breakpoint file="/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimtest/Sample99.cs" line="44" column="1" />
+      <Breakpoint file="/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimtest/Sample99.cs" line="45" column="1" />
+      <Breakpoint file="/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/Program.cs" line="236" column="1" />
+      <Breakpoint file="/Users/whitchurchmuthumani/Projects/algorithimdevspace/algorithimdevspace/Program.cs" line="312" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

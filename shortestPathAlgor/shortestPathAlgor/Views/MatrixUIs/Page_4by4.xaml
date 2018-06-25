@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="shortestPathAlgor.Views.MatrixUIs.Page_4by4"
+             xmlns:customControls="clr-namespace:shortestPathAlgor.CustomControls;assembly=shortestPathAlgor"
+             BackgroundColor="Black">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical"
+                         HorizontalOptions="FillAndExpand"
+                         VerticalOptions="FillAndExpand">
+                
+            
+            <StackLayout>
+                <customControls:Custom_SubLabel  
+                Text="Enter the values into the 4x4 Matrix and hit calculate"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+             <StackLayout Orientation="Horizontal">
+        <Entry
+            Text="{Binding Property00}"
+            Keyboard="Numeric"
+            HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+        </Entry>
+
+        <Entry
+            Text="{Binding Property01}"
+            Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+        </Entry>
+
+        <Entry
+            Text="{Binding Property02}"
+            Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+        </Entry>
+
+        <Entry
+            Text="{Binding Property03}"
+            Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+        </Entry>
+        </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry
+            Text="{Binding Property10}"
+                       Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property11}"
+                       Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property12}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property13}"
+                       Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry
+            Text="{Binding Property20}"
+                       Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property21}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property22}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property23}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Entry
+            Text="{Binding Property30}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property31}"
+                       Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property32}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+
+                <Entry
+            Text="{Binding Property33}"
+                        Keyboard="Numeric"
+                      HorizontalOptions="FillAndExpand"
+            BackgroundColor="White"
+            TextColor="Black">
+
+                </Entry>
+            </StackLayout>
+
+                <StackLayout>
+                    <customControls:Custom_SubLabel  
+                Text="{Binding MinPathValue}"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <StackLayout>
+                    <customControls:Custom_SubLabel  
+                Text="{Binding NodesOnpath}"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <StackLayout>
+                    <customControls:Custom_SubLabel  
+                Text="{Binding TravelledFromOneEndofMatrixToNext}"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+                </StackLayout>
+
+                <customControls:Custom_Button
+                HorizontalOptions="FillAndExpand"
+                Text="Generate Result"
+                Command="{Binding Calculate4by4Command}"
+                />
+
+                <customControls:Custom_Button
+                HorizontalOptions="FillAndExpand"
+                Text="Go Back"
+                Command="{Binding BackCommand}"
+                />
+
+                <customControls:Custom_SubLabel  Text="Note: In the future, I am planning to have RegEX to check if value entered inside the boxes is a valid number. RegEX will be: ^[0-9]*"
+                                             TextColor="Red"
+                VerticalOptions="Start" 
+                HorizontalOptions="FillAndExpand" />
+
+            </StackLayout>
+
+
+        </ScrollView>
+    </ContentPage.Content>
+  
+</ContentPage>
